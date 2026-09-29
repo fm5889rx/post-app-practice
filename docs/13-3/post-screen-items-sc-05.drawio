@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="ページ-1" id="4aVloj_LO9fi7gOF0J6v">
+    <mxGraphModel dx="1433" dy="1228" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="A6iqyc2Wt1sptaNzivGe-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="570" width="660" x="90" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="A6iqyc2Wt1sptaNzivGe-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="アプリタイトル" vertex="1">
+          <mxGeometry height="40" width="190" x="90" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="A6iqyc2Wt1sptaNzivGe-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="画面タイトル" vertex="1">
+          <mxGeometry height="60" width="120" x="125" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="A6iqyc2Wt1sptaNzivGe-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="タイトル" vertex="1">
+          <mxGeometry height="60" width="120" x="125" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="A6iqyc2Wt1sptaNzivGe-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="入力（1行）" vertex="1">
+          <mxGeometry height="60" width="440" x="280" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="A6iqyc2Wt1sptaNzivGe-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="トピック" vertex="1">
+          <mxGeometry height="60" width="120" x="125" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="A6iqyc2Wt1sptaNzivGe-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="選択（カテゴリ名）" vertex="1">
+          <mxGeometry height="60" width="310" x="280" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="A6iqyc2Wt1sptaNzivGe-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="本文" vertex="1">
+          <mxGeometry height="60" width="120" x="125" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="A6iqyc2Wt1sptaNzivGe-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="入力（複数行）" vertex="1">
+          <mxGeometry height="170" width="440" x="280" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="A6iqyc2Wt1sptaNzivGe-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="更新" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="A6iqyc2Wt1sptaNzivGe-11" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=0.002;exitY=0.845;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="79.99999999999994" y="694.75" as="sourcePoint" />
+            <mxPoint x="748.68" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
