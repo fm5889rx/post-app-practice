@@ -1,0 +1,101 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="ページ-1" id="JUKa6F8fAYjg0a3aG3DS">
+    <mxGraphModel dx="1279" dy="1034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EtbhDLu_qydmh4yvF9o5-1" edge="1" parent="1" source="EtbhDLu_qydmh4yvF9o5-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="EtbhDLu_qydmh4yvF9o5-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EtbhDLu_qydmh4yvF9o5-2" connectable="0" parent="EtbhDLu_qydmh4yvF9o5-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="アカウント作成ボタンを押す" vertex="1">
+          <mxGeometry relative="1" x="-0.5691" y="1" as="geometry">
+            <mxPoint x="23" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EtbhDLu_qydmh4yvF9o5-3" edge="1" parent="1" source="EtbhDLu_qydmh4yvF9o5-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="EtbhDLu_qydmh4yvF9o5-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EtbhDLu_qydmh4yvF9o5-4" connectable="0" parent="EtbhDLu_qydmh4yvF9o5-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="ログインボタンを押す" vertex="1">
+          <mxGeometry relative="1" x="0.0667" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EtbhDLu_qydmh4yvF9o5-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="トップページ画面" vertex="1">
+          <mxGeometry height="60" width="120" x="324" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="EtbhDLu_qydmh4yvF9o5-6" edge="1" parent="1" source="EtbhDLu_qydmh4yvF9o5-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="EtbhDLu_qydmh4yvF9o5-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EtbhDLu_qydmh4yvF9o5-7" connectable="0" parent="EtbhDLu_qydmh4yvF9o5-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="ログイン成功" vertex="1">
+          <mxGeometry relative="1" x="-0.1429" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EtbhDLu_qydmh4yvF9o5-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ログイン画面" vertex="1">
+          <mxGeometry height="60" width="120" x="324" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="EtbhDLu_qydmh4yvF9o5-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="アカウント登録画面" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="EtbhDLu_qydmh4yvF9o5-10" edge="1" parent="1" source="EtbhDLu_qydmh4yvF9o5-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="EtbhDLu_qydmh4yvF9o5-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EtbhDLu_qydmh4yvF9o5-11" connectable="0" parent="EtbhDLu_qydmh4yvF9o5-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="編集ボタンを押す" vertex="1">
+          <mxGeometry relative="1" x="-0.0667" y="-1" as="geometry">
+            <mxPoint y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EtbhDLu_qydmh4yvF9o5-12" edge="1" parent="1" source="EtbhDLu_qydmh4yvF9o5-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="EtbhDLu_qydmh4yvF9o5-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="324" y="450" />
+              <mxPoint x="210" y="450" />
+              <mxPoint x="210" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EtbhDLu_qydmh4yvF9o5-13" connectable="0" parent="EtbhDLu_qydmh4yvF9o5-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="ログアウトボタンを押す" vertex="1">
+          <mxGeometry relative="1" x="0.1423" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EtbhDLu_qydmh4yvF9o5-14" edge="1" parent="1" source="EtbhDLu_qydmh4yvF9o5-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;innerLoopWaypoints=1;" target="EtbhDLu_qydmh4yvF9o5-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="470" />
+              <mxPoint x="210" y="500" />
+            </Array>
+            <mxPoint x="240" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EtbhDLu_qydmh4yvF9o5-15" connectable="0" parent="EtbhDLu_qydmh4yvF9o5-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="削除ボタンを押す" vertex="1">
+          <mxGeometry relative="1" x="0.2946" y="-2" as="geometry">
+            <mxPoint x="37" y="-32" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EtbhDLu_qydmh4yvF9o5-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="投稿一覧表示画面" vertex="1">
+          <mxGeometry height="60" width="120" x="324" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="EtbhDLu_qydmh4yvF9o5-17" edge="1" parent="1" source="EtbhDLu_qydmh4yvF9o5-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="EtbhDLu_qydmh4yvF9o5-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EtbhDLu_qydmh4yvF9o5-18" connectable="0" parent="EtbhDLu_qydmh4yvF9o5-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="更新ボタンを押す" vertex="1">
+          <mxGeometry relative="1" x="-0.0667" y="3" as="geometry">
+            <mxPoint y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EtbhDLu_qydmh4yvF9o5-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="投稿編集画面" vertex="1">
+          <mxGeometry height="60" width="120" x="324" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="EtbhDLu_qydmh4yvF9o5-20" edge="1" parent="1" source="EtbhDLu_qydmh4yvF9o5-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.992;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" target="EtbhDLu_qydmh4yvF9o5-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EtbhDLu_qydmh4yvF9o5-21" connectable="0" parent="EtbhDLu_qydmh4yvF9o5-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="アカウント作成成功" vertex="1">
+          <mxGeometry relative="1" x="-0.4188" y="2" as="geometry">
+            <mxPoint y="-47" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
